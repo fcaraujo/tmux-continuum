@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Maintainer: Fernando Silva @fcaraujo
+# # Contact maintainer for any change to this file.
+
 # for "true full screen" call the script with "fullscreen" as the first argument
 TRUE_FULL_SCREEN="$1"
 
